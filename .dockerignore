@@ -1,0 +1,16 @@
+vendor
+node_modules
+.env
+.env.local
+.env.example
+storage/*.key
+storage/*.log
+storage/framework/*
+storage/logs/*
+storage/debugbar/*
+bootstrap/cache/*
+composer.lock
+composer.phar
+.DS_Store
+*.log
+*.swp
